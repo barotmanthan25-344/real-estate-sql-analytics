@@ -25,6 +25,30 @@ The project demonstrates advanced SQL techniques including:
 | Total | 16,300 |
 
 ---
+## Key Highlights
+
+- 20 Advanced SQL KPIs
+- 16,300+ Real Estate Records
+- 3 Linked Datasets
+- 20 Cities Analyzed
+- Window Functions
+- Recursive CTEs
+- PIVOT Reporting
+- Statistical Outlier Detection
+
+---
+
+## Business Outcomes
+
+- Ranked cities by property value
+- Identified top rental yield locations
+- Forecasted property prices for 5 years
+- Detected stale inventory listings
+- Analyzed builder performance
+- Identified statistical investment outliers
+
+---
+
 
 ## SQL Skills Demonstrated
 
