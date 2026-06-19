@@ -83,6 +83,4 @@ presentation/
 
 ## Author
 
-Manthan Barot
-
 Aspiring AI/ML Engineer | SQL Developer | Data Analyst
